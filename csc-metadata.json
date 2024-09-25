@@ -1,0 +1,19 @@
+{
+    "name": "CSC Network",
+    "symbol": "CSC",
+    "image": "https://raw.githubusercontent.com/casinocoin/assets/main/csc_symbol_green_white_bg.png",
+    "attributes": [
+      [
+        "description",
+        "CSC Network (CSC) is a token developed specifically for the gaming industry."
+      ],
+      [
+        "autor",
+        "Eminence"
+      ],
+      [
+        "company",
+        "Eminence"
+      ]
+    ]
+  }
